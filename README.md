@@ -1,7 +1,7 @@
--he/him; fullstack dev; still a minor for a while longer than i'd like
--fluent in:
-  -Lua (2 years)
-  -Javascript (2 years)
-  -C# (3 years)
-  -HTML/CSS (2 years)
-  -GDScript (<1 year)
+- he/him; fullstack dev; still a minor for a while longer than i'd like
+- fluent in:
+  - Lua (2 years)
+  - Javascript (2 years)
+  - C# (3 years)
+  - HTML/CSS (2 years)
+  - GDScript (<1 year)
